@@ -116,7 +116,7 @@ In this hands-on task, you take the role of a **Level 1 SOC Analyst** investigat
 
 - You receive an alert: **Port scanning activity** was observed on the network.  
 - The **vulnerability assessment team** confirms they ran a scan from host `10.0.0.8`.  
-- You use the SIEM to review logs and answer the investigation questions. :contentReference[oaicite:8]{index=8}
+- You use the SIEM to review logs and answer the investigation questions. 
 
 ---
 
